@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: homepage/publications/
+    url: /homepage/publications/
 
   - title: "Talks"
     url: /talhomepageks/    
 
   - title: "Teaching"
-    url: homepage/teaching/    
+    url: /homepage/teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
