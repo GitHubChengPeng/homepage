@@ -44,7 +44,7 @@ or to comply with regulatory requirements for public disclosure.
 Nevertheless, individuals often express concerns over the issue of privacy infringement. 
 Peng's research centers on the prevention of the divulgence of confidential data.
 
-Previously, Peng was a post-doctoral researcher in the CS department of Free University of Bozen-Bolzano in 2019-2020. During this time, Peng's research mostly revolved around the scheduling problem in construction and the utilization of constraint fulfillment techniques. The modeling of construction scheduling was approached as a Constraint Satisfaction Problem (CSP), with the subsequent development of solutions and tools utilizing constraint programming approaches for its resolution.
+Previously, Peng was a post-doctoral researcher in the CS department of Free University of Bozen-Bolzano in 2019-2020. During this time, Peng's research mostly revolved around the scheduling problem in construction and the utilization of constraint programming techniques. The modeling of construction scheduling was approached as a Constraint Satisfaction Problem (CSP), with the subsequent development of solutions and tools utilizing constraint programming approaches for its resolution.
 
 Prior to that, he was a postdoctoral researcher at University of Kansas Medical Center, USA, in 2016-2017. During this period, Peng conducted an investigation into illness predicting models that utilized supervised learning techniques applied to structural medical data.
 In 2016, Peng received Ph.D. in Computer Science from Harbin Institute of Technology, China. 
