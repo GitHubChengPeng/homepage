@@ -37,14 +37,20 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Peng Cheng is a lecturer in the Department of Computer and Information Science at Southwest University, China. 
 
-He works broadly on the theoretical aspects of machine learning and algorithmic economics. Classically, the outcome of a learning algorithm is considered in isolation from the effects that it may have on the process that generates the data or the party who is interested in learning. In today's world, increasingly more people and organizations interact with learning systems, making it necessary to consider these effects. 
+Peng has conducted research focused on safeguarding privacy in the context of data mining. 
+In contemporary society, there is a growing necessity to exchange a greater volume of data among individuals 
+and institutions in order to attain advantages and generate financial gains, 
+or to comply with regulatory requirements for public disclosure. 
+Nevertheless, individuals often express concerns over the issue of privacy infringement. 
+Peng's research centers on the prevention of the divulgence of confidential data.
 
-Addressing machine learning in this context calls for approaches that align the incentives and interests of the learners and other parties, are robust to the evolving social and economic needs, and promote equity. Peng's work in machine learning and computer science addresses emerging fields such as privacy protection in data sharing, robustness of ML, fairness and privacy.
+Previously, Peng was a post-doctoral researcher in the CS department of Free University of Bozen-Bolzano in 2019-2020. During this time, Peng's research mostly revolved around the scheduling problem in construction and the utilization of constraint fulfillment techniques. The modeling of construction scheduling was approached as a Constraint Satisfaction Problem (CSP), with the subsequent development of solutions and tools utilizing constraint programming approaches for its resolution.
 
-Previously, Peng was a post-doctoral researcher in the CS department of Free University of Bozen-Bolzano, in 2019-2020. Prior to that, he was a postdoctoral researcher at University of Kansas Medical Center, USA, in 2016-2017. In 2016, he received Ph.D. in Computer Science from Harbin Institute of Technology, China. 
-He is broadly interested in statistical machine learning, reliable machine learning (robustness, privacy, fairness, and et al.), evolutionary muti-objective optimization. 
+Prior to that, he was a postdoctoral researcher at University of Kansas Medical Center, USA, in 2016-2017. During this period, Peng conducted an investigation into illness predicting models that utilized supervised learning techniques applied to structural medical data.
+In 2016, Peng received Ph.D. in Computer Science from Harbin Institute of Technology, China. 
 
-Recently, his research has been focusing on fairness in machine learning, privacy preserving data mining, optimization in scheduling, and the applications of machine learning.
+Peng is broadly interested in statistical machine learning, evolutionary multi-objective optimization, and trustworthy machine learning (robustness, privacy, fairness, and et al.). 
+His recent research has concentrated on privacy-preserving data mining, scheduling optimization, and fairness in machine learning.
 
 
 
