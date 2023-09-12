@@ -4,16 +4,16 @@ main:
     url: /homepage/publications/
 
   - title: "Talks"
-    url: /talhomepageks/    
+    url: /homepage/talhomepageks/    
 
   - title: "Teaching"
     url: /homepage/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /homepage/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /homepage/year-archive/
     
   - title: "CV"
     url: /cv/
