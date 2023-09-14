@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 
-Framework and Bench Platform
+Framework and Platform
 -------------
+
 
 - Fairness in Machine Learning
 
   - [Fairlearn](https://fairlearn.org/).
 
   - [AI Fairness 360](https://ai-fairness-360.org/).
+    
 
 - Privacy in Data Mining or Machine Learning
 
@@ -23,7 +25,6 @@ Framework and Bench Platform
 
 
 - Machine Learning Security
-
 
   - Adversarial Robustness Toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
 
