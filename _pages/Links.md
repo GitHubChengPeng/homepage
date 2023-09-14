@@ -31,21 +31,21 @@ Machine Learning Security
 EMO (Evolutionary Multi-objective Optimization)
 ------
 
-- [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/), a Repository on Evolutionary Multiobjective Optimization.
+- [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/), a repository on evolutionary multiobjective optimization.
 
-- [jMetal](https://jmetal.github.io/jMetal/), an Object-oriented Java-based Framework for Multi-objective Optimization with Metaheuristics. 
+- [jMetal](https://jmetal.github.io/jMetal/), an object-oriented java-based framework for multi-objective optimization with metaheuristics. 
 
-- [DESDEO](https://desdeo.it.jyu.fi/), a Framework for Interactively Solving Multiobjective Optimization Problems. 
+- [DESDEO](https://desdeo.it.jyu.fi/), a framework for interactively solving multiobjective optimization problems. 
 
-- [MOEA Framework](http://moeaframework.org/), a Java Framework for Multiobjective Optimization.
+- [MOEA Framework](http://moeaframework.org/), a java framework for multiobjective optimization.
 
-- [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php), a Platform and Programming Language Independent Interface for Search Algorithms.
+- [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php), a platform and programming language independent interface for search algorithms.
 
 
 Constraint Satisfaction
 -------
 
-- [Choco](https://choco-solver.org/), an Open-Source Java library dedicated to Constraint Programming. 
+- [Choco](https://choco-solver.org/), an open-source java library dedicated to constraint programming. 
 
-- [MiniZinc](https://www.minizinc.org/).
+- [MiniZinc](https://www.minizinc.org/), a free and open-source constraint modeling language.
 
