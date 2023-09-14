@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Framework and Platform
+<font color=Blue>Framework and Platform</font>
 -------------
 
 
