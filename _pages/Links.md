@@ -39,7 +39,7 @@ EMO (Evolutionary Multi-objective Optimization)
 
 - [Pymoo](https://pymoo.org/): Multi-objective Optimization in Python.
   
-- [DESDEO](https://desdeo.it.jyu.fi/), a framework for interactively solving multiobjective optimization problems. 
+- [DESDEO](https://desdeo.misitano.xyz/), a framework for interactively solving multiobjective optimization problems. 
 
 - [MOEA Framework](http://moeaframework.org/), a java framework for multiobjective optimization.
 
