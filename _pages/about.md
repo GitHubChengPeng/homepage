@@ -80,10 +80,12 @@ His recent research has concentrated on privacy-preserving data mining, scheduli
 		  
 
 <br/>
+<br/>
 
-
-
+<!--
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DG2TxAXrQSCeM3ErBYGwu02YS-6Tnbp0nR0HqWHDyUk&cl=ffffff&w=a"></script>
+-->
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=278&t=tt&d=DG2TxAXrQSCeM3ErBYGwu02YS-6Tnbp0nR0HqWHDyUk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 
 
