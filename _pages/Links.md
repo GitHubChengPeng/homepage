@@ -7,8 +7,11 @@ redirect_from:
   - /Links.html
 ---
 
-
+<!--
 <font color=Blue>Framework and Platform</font>
+-->
+
+Framework and Platform
 -------------
 
 
