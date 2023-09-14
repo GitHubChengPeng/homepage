@@ -1,3 +1,13 @@
+---
+permalink: /Links/
+title: "Links"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /Links.html
+---
+
+
 Fairness in Machine Learning
 ------
 Fairlearn
