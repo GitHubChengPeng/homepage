@@ -11,10 +11,9 @@ redirect_from:
 Fairness in Machine Learning
 ------
 
-- [Fairlearn](https://fairlearn.org/)
+- [Fairlearn](https://fairlearn.org/).
 
-- [AI Fairness 360](https://ai-fairness-360.org/) ([Link](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/))
-
+- [AI Fairness 360](https://ai-fairness-360.org/).
 
 Privacy in Data Mining or Machine Learning
 ------
@@ -33,15 +32,17 @@ EMO (Evolutionary Multi-objective Optimization)
 
 - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/): a repository on evolutionary multiobjective optimization.
 
-- [jMetal](https://github.com/jMetal/jMetal): an object-oriented java-based framework for multi-objective optimization with metaheuristics. 
+- [jMetal](https://github.com/jMetal/jMetal): an object-oriented Java-based framework for multi-objective optimization with metaheuristics. 
 
 - [jMetalPy](https://github.com/jMetal/jMetalPy): a Python version of the jMetal framework. ([Tutorial](https://jmetal.github.io/jMetalPy/tutorials.html))
 
 - [Pymoo](https://pymoo.org/): Multi-objective Optimization in Python.
   
-- [DESDEO](https://desdeo.misitano.xyz/), a framework for interactively solving multiobjective optimization problems. 
+- [DESDEO](https://desdeo.misitano.xyz/), a framework for interactively solving multiobjective optimization problems.
 
-- [MOEA Framework](http://moeaframework.org/), a java framework for multiobjective optimization.
+- [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary multi-objective optimization platform in MATLAB.
+
+- [MOEA Framework](http://moeaframework.org/), a Java framework for multiobjective optimization.
 
 - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php), a platform and programming language independent interface for search algorithms.
 
