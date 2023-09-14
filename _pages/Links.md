@@ -33,8 +33,12 @@ EMO (Evolutionary Multi-objective Optimization)
 
 - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/), a repository on evolutionary multiobjective optimization.
 
-- [jMetal](https://jmetal.github.io/jMetal/), an object-oriented java-based framework for multi-objective optimization with metaheuristics. 
+- [jMetal](https://github.com/jMetal/jMetal), an object-oriented java-based framework for multi-objective optimization with metaheuristics. 
 
+- [jMetalPy](https://github.com/jMetal/jMetalPy)([Tutorial](https://jmetal.github.io/jMetalPy/tutorials.html)), Python version of the jMetal framework.
+
+- PyMoo
+  
 - [DESDEO](https://desdeo.it.jyu.fi/), a framework for interactively solving multiobjective optimization problems. 
 
 - [MOEA Framework](http://moeaframework.org/), a java framework for multiobjective optimization.
