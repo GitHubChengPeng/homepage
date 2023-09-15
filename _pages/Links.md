@@ -19,19 +19,17 @@ redirect_from:
 
   - [Fairlearn](https://fairlearn.org/).
 
-  - [AI Fairness 360](https://ai-fairness-360.org/).
-    
+  - [AI Fairness 360](https://ai-fairness-360.org/).  
+
 <br/>
 - Privacy in Data Mining or Machine Learning
 
   - [ARX](https://github.com/arx-deidentifier/arx),  a Data Anonymization Tool Aiming to Provide Scalability and Usability. 
 
-
 <br/>
 - Machine Learning Security
 
   - Adversarial Robustness Toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
-
 
 <br/>
 - Evolutionary Multi-objective Optimization（EMO)
@@ -54,7 +52,6 @@ redirect_from:
 
   - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php), a platform and programming language independent interface for search algorithms.
  
-
 <br/>
 - Neural Architecture Search (NAS)
 
@@ -62,7 +59,6 @@ redirect_from:
     - Neural Architecture Search as Multiobjective Optimization Benchmarks.
    
   - [EvoX](https://github.com/EMI-Group/evox), A Distributed GPU-accelerated Framework for Scalable Evolutionary Computation.
-
 
 <br/>
 - Constraint Satisfaction
