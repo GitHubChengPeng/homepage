@@ -42,7 +42,7 @@ Frameworks
 
   - [jMetal](https://github.com/jMetal/jMetal): an Object-oriented Java-based Framework for Multi-objective Optimization with Metaheuristics. 
 
-  - [jMetalPy](https://github.com/jMetal/jMetalPy): a Python Version of the jMetal framework. ([Tutorial](https://jmetal.github.io/jMetalPy/tutorials.html))
+  - [jMetalPy](https://github.com/jMetal/jMetalPy): a Python Version of the jMetal framework. ([Document](https://jmetal.github.io/jMetalPy/tutorials.html))
 
   - [Pymoo](https://pymoo.org/): Multi-objective Optimization in Python.
 
@@ -59,7 +59,6 @@ Frameworks
 
 
 - Neural Architecture Search (NAS)
--------
 
   - [EVOX Bench](https://github.com/EMI-Group/evoxbench), A Neural Architecture Search Benchmark without Requirements of GPUs or PyTorch/TensorFlow.
     - Neural Architecture Search as Multiobjective Optimization Benchmarks.
@@ -69,7 +68,6 @@ Frameworks
 
 
 - Constraint Satisfaction
--------
 
   - [Choco](https://choco-solver.org/), an Open-source Java Library dedicated to Constraint Programming. 
 
