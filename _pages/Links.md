@@ -24,7 +24,7 @@ Frameworks
 
 - Privacy in Data Mining or Machine Learning
 
-  - [ARX](https://github.com/arx-deidentifier/arx),  a data anonymization tool aiming to provide scalability and usability. 
+  - [ARX](https://github.com/arx-deidentifier/arx),  a Data Anonymization Tool Aiming to Provide Scalability and Usability. 
 
 
 - Machine Learning Security
@@ -34,29 +34,40 @@ Frameworks
 
 - EMO (Evolutionary Multi-objective Optimization)
 
-  - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/): a repository on evolutionary multiobjective optimization.
+  - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/): a Repository on Evolutionary Multiobjective Optimization.
 
-  - [jMetal](https://github.com/jMetal/jMetal): an object-oriented Java-based framework for multi-objective optimization with metaheuristics. 
+  - [jMetal](https://github.com/jMetal/jMetal): an Object-oriented Java-based Framework for Multi-objective Optimization with Metaheuristics. 
 
-  - [jMetalPy](https://github.com/jMetal/jMetalPy): a Python version of the jMetal framework. ([Tutorial](https://jmetal.github.io/jMetalPy/tutorials.html))
+  - [jMetalPy](https://github.com/jMetal/jMetalPy): a Python Version of the jMetal framework. ([Tutorial](https://jmetal.github.io/jMetalPy/tutorials.html))
 
   - [Pymoo](https://pymoo.org/): Multi-objective Optimization in Python.
 
   - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-Assisted Multi-objective Optimization
   
-  - [DESDEO](https://desdeo.misitano.xyz/), a framework for interactively solving multiobjective optimization problems.
+  - [DESDEO](https://desdeo.misitano.xyz/), a Framework for Interactively Solving Multiobjective Optimization Problems.
 
-  - [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary multi-objective optimization platform in MATLAB.
+  - [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary Multi-objective Optimization Platform in MATLAB.
 
-  - [MOEA Framework](http://moeaframework.org/), a Java framework for multiobjective optimization.
+  - [MOEA Framework](http://moeaframework.org/), a Java Framework for Multiobjective Optimization.
 
   - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php), a platform and programming language independent interface for search algorithms.
+ 
+
+
+- Neural Architecture Search (NAS)
+-------
+
+  - [EVOX Bench](https://github.com/EMI-Group/evoxbench), A Neural Architecture Search Benchmark without Requirements of GPUs or PyTorch/TensorFlow.
+    - Neural Architecture Search as Multiobjective Optimization Benchmarks.
+   
+  - [EvoX](https://github.com/EMI-Group/evox), A Distributed GPU-accelerated Framework for Scalable Evolutionary Computation.
+
 
 
 - Constraint Satisfaction
 -------
 
-  - [Choco](https://choco-solver.org/), an open-source java library dedicated to constraint programming. 
+  - [Choco](https://choco-solver.org/), an Open-source Java Library dedicated to Constraint Programming. 
 
-  - [MiniZinc](https://www.minizinc.org/), a free and open-source constraint modeling language.
+  - [MiniZinc](https://www.minizinc.org/), an Open-source Constraint Modeling Language.
 
