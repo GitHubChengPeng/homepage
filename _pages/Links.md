@@ -21,17 +21,17 @@ redirect_from:
 
   - [AI Fairness 360](https://ai-fairness-360.org/).  
 
-<br/>
+
 - Privacy in Data Mining or Machine Learning
 
   - [ARX](https://github.com/arx-deidentifier/arx),  a Data Anonymization Tool Aiming to Provide Scalability and Usability. 
 
-<br/>
+
 - Machine Learning Security
 
   - Adversarial Robustness Toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
 
-<br/>
+
 - Evolutionary Multi-objective Optimization（EMO)
 
   - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/): a Repository on Evolutionary Multiobjective Optimization.
@@ -52,7 +52,7 @@ redirect_from:
 
   - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php), a platform and programming language independent interface for search algorithms.
  
-<br/>
+
 - Neural Architecture Search (NAS)
 
   - [EvoXBench](https://github.com/EMI-Group/evoxbench), A Neural Architecture Search Benchmark without Requirements of GPUs or PyTorch/TensorFlow.
@@ -60,7 +60,7 @@ redirect_from:
    
   - [EvoX](https://github.com/EMI-Group/evox), A Distributed GPU-accelerated Framework for Scalable Evolutionary Computation.
 
-<br/>
+
 - Constraint Satisfaction
 
   - [Choco](https://choco-solver.org/), an Open-source Java Library dedicated to Constraint Programming. 
