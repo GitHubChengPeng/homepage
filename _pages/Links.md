@@ -58,7 +58,7 @@ redirect_from:
 <br/>
 - Neural Architecture Search (NAS)
 
-  - [EVOX Bench](https://github.com/EMI-Group/evoxbench), A Neural Architecture Search Benchmark without Requirements of GPUs or PyTorch/TensorFlow.
+  - [EvoXBench](https://github.com/EMI-Group/evoxbench), A Neural Architecture Search Benchmark without Requirements of GPUs or PyTorch/TensorFlow.
     - Neural Architecture Search as Multiobjective Optimization Benchmarks.
    
   - [EvoX](https://github.com/EMI-Group/evox), A Distributed GPU-accelerated Framework for Scalable Evolutionary Computation.
