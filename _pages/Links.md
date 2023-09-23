@@ -11,7 +11,7 @@ redirect_from:
 <font color=Blue>Framework and Platform</font>
 -->
 
-### Conference
+### Journals and Conferences
 
 - [CCF Recommendation Conference](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [Recommended Academic Conferences and Journals in Computer Science of Tsinghua University](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
