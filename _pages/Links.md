@@ -14,7 +14,6 @@ redirect_from:
 ### Conference
 
 - [CCF Recommendation Conference](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-- [CCF Recommendation Conference Deadline Countdowns](https://ccfddl.github.io/)
 - [Recommended Academic Conferences and Journals in Computer Science of Tsinghua University](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 
 
