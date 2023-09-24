@@ -48,8 +48,10 @@ redirect_from:
 
 
 ### Journals and Conferences
-- [ACM](https://www.acm.org/), [IEEE](https://www.ieee.org/)
-- [CCF Recommendation Conference](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-- [Recommended Academic Conferences and Journals in Computer Science of Tsinghua University](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 
-- 
+- [CCF Recommendation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [Scimago](https://www.scimagojr.com/)
+- [Alert list](https://earlywarning.fenqubiao.com/#/)
+
+
+
