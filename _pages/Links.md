@@ -11,10 +11,6 @@ redirect_from:
 <font color=Blue>Framework and Platform</font>
 -->
 
-### Journals and Conferences
-
-- [CCF Recommendation Conference](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-- [Recommended Academic Conferences and Journals in Computer Science of Tsinghua University](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
 
 
 ### Frameworks
@@ -50,3 +46,10 @@ redirect_from:
   - [Choco](https://choco-solver.org/), an Open-source Java Library dedicated to Constraint Programming. 
   - [MiniZinc](https://www.minizinc.org/), an Open-source Constraint Modeling Language.
 
+
+### Journals and Conferences
+- [ACM](https://www.acm.org/), [IEEE](https://www.ieee.org/)
+- [CCF Recommendation Conference](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [Recommended Academic Conferences and Journals in Computer Science of Tsinghua University](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
+
+- 
