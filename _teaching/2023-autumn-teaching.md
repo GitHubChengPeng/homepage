@@ -2,7 +2,7 @@
 title: "Introduction to Python Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-autumn-teaching-1
+permalink: /teaching/2023-autumn-teaching
 venue: "Southwest University, Department of Computer Science"
 date: 2023-10-07
 location: "Chongqing, China"
