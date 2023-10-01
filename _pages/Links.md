@@ -43,7 +43,7 @@ redirect_from:
   - [EvoX](https://github.com/EMI-Group/evox): A Distributed GPU-accelerated Framework for Scalable Evolutionary Computation.
 
 - Constraint Satisfaction and Programming
-  - [Choco](https://choco-solver.org/): An Open-source Java Library dedicated to Constraint Programming. 
+  - [Choco](https://choco-solver.org/): An Open-source Java Library Dedicated to Constraint Programming. 
   - [MiniZinc](https://www.minizinc.org/): An Open-source Constraint Modeling Language.
   - [IBM ILOG CPLEX](https://www.ibm.com/docs/en/icos/20.1.0): A Mathematical and Constraint Programming-based Prescriptive Analytics Tool for Rapid Decision Optimization Model Development and Deployment.
 
