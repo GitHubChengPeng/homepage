@@ -45,7 +45,7 @@ redirect_from:
 - Constraint Satisfaction and Programming
   - [Choco](https://choco-solver.org/): An Open-source Java Library dedicated to Constraint Programming. 
   - [MiniZinc](https://www.minizinc.org/): An Open-source Constraint Modeling Language.
-  - [IBM ILOG CPLEX](https://www.ibm.com/docs/en/icos/20.1.0): A prescriptive analytics solution that enables rapid development and deployment of decision optimization models using mathematical and constraint programming.
+  - [IBM ILOG CPLEX](https://www.ibm.com/docs/en/icos/20.1.0): A Mathematical and Constraint Programming-based Prescriptive Analytics Tool for Rapid Decision Optimization Model Development and Deployment.
 
 
 ### Journals and Conferences
