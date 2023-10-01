@@ -35,7 +35,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Biography
 
-Peng Cheng is a lecturer in the Department of Computer and Information Science at Southwest University, China. 
+Peng Cheng is a lecturer in the [Faculty of Computer and Information Science](http://cis.swu.edu.cn/) at Southwest University, China. 
 
 Peng has conducted research focused on safeguarding privacy in the context of data mining. 
 In contemporary society, there is a growing necessity to exchange a greater volume of data among individuals 
