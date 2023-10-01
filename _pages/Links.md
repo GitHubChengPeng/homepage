@@ -42,9 +42,10 @@ redirect_from:
     - Neural Architecture Search as Multiobjective Optimization Benchmarks.
   - [EvoX](https://github.com/EMI-Group/evox), A Distributed GPU-accelerated Framework for Scalable Evolutionary Computation.
 
-- Constraint Satisfaction
+- Constraint Satisfaction and Programming
   - [Choco](https://choco-solver.org/), an Open-source Java Library dedicated to Constraint Programming. 
   - [MiniZinc](https://www.minizinc.org/), an Open-source Constraint Modeling Language.
+  - [IBM ILOG CPLEX](https://www.ibm.com/docs/en/icos/20.1.0), a prescriptive analytics solution that enables rapid development and deployment of decision optimization models using mathematical and constraint programming.
 
 
 ### Journals and Conferences
