@@ -52,6 +52,7 @@ redirect_from:
 
 - [CCF Recommendation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [Scimago](https://www.scimagojr.com/)
+- [ACM Upcoming Submission Deadlines](https://www.acm.org/conferences/upcoming-submission-deadlines)
 - [Alert list](https://earlywarning.fenqubiao.com/#/)
 
 
