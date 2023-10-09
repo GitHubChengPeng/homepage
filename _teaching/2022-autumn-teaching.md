@@ -1,5 +1,5 @@
 ---
-title: "Machine learning"
+title: "Machine Learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-autumn-teaching
