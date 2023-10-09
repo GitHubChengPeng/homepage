@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning and application"
+title: "Deep Learning and Application"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-spring-teaching-1
