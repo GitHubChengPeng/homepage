@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning and Application"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Southwest University, Computer Science Department"
 date: 2022-03-01
