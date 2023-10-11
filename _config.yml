@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "      " #"Your biography for the left-hand sidebar"
   location         : "Chongqing, China"
-  employer         : "Southwest University"
+  employer         :  #"Southwest University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "https://scholar.google.com/citations?user=3VW2WTIAAAAJ&hl=en"
   email            : "chengp.mail@gmail.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
