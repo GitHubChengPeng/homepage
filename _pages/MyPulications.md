@@ -1,10 +1,10 @@
 ---
-permalink: /Links/
-title: "Links"
+permalink: /MyPublications/
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /md/
-  - /Links.html
+  - /MyPublications.html
 ---
 
 1. P. Cheng, "Identify Risky Elements to Reduce Side Effects in Association Rule Hiding", 32nd ACM International Conference on Information and Knowledge Management (CIKM ’23), Birmingham, UK, 2023. (Accepted)
