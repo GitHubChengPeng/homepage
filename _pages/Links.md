@@ -30,7 +30,7 @@ redirect_from:
   - [jMetal](https://github.com/jMetal/jMetal): An object-oriented Java-based framework for multi-objective optimization with metaheuristics. 
   - [jMetalPy](https://github.com/jMetal/jMetalPy): Python version of the jMetal framework ([Document](https://jmetal.github.io/jMetalPy/tutorials.html)).
   - [Pymoo](https://pymoo.org/): Multi-objective optimization in Python.
-  - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-assisted multi-objective optimization 
+  - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-assisted multi-objective optimization.
   - [DESDEO](https://desdeo.misitano.xyz/): Python framework for interactively solving multi-objective optimization problems.
   - [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary multi-objective optimization platform in MATLAB.
   - [MOEA Framework](http://moeaframework.org/): Java framework for multi-objective optimization.
