@@ -46,7 +46,7 @@ redirect_from:
   - [Choco](https://choco-solver.org/): An open-source Java library dedicated to constraint programming. 
   - [MiniZinc](https://www.minizinc.org/): An open-source constraint modeling language.
   - [IBM ILOG CPLEX](https://www.ibm.com/docs/en/icos/20.1.0): A mathematical and constraint programming-based prescriptive analytics tool for fast decision optimization model development and deployment.
-  - Gurobi: A state-of-the-art solver for mathematical programming. 
+  - [Gurobi](https://www.gurobi.com/features/academic-named-user-license/): A state-of-the-art solver for mathematical programming. 
 
 
 ### Journals and Conferences
