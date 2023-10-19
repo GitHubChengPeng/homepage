@@ -39,10 +39,10 @@ Peng Cheng is a lecturer in the [Faculty of Computer and Information Science](ht
 
 Peng has conducted research focused on safeguarding privacy in the context of data mining. 
 In contemporary society, there is a growing necessity to exchange a greater volume of data among individuals 
-and institutions in order to attain advantages and generate financial gains, 
+or institutions in order to obtain advantages and generate financial gains, 
 or to comply with regulatory requirements for public disclosure. 
 Nevertheless, individuals often express concerns over the issue of privacy infringement. 
-Peng's research centers on the prevention of the divulgence of confidential data.
+Peng's research centers on the prevention of the disclosure of confidential information.
 
 Previously, Peng was a post-doctoral researcher in the CS department of Free University of Bozen-Bolzano in 2019-2020. During this time, Peng's research mostly revolved around the scheduling problem in construction and the utilization of constraint programming techniques. The modeling of construction scheduling was approached as a Constraint Satisfaction Problem (CSP), with the subsequent development of solutions and tools utilizing constraint programming approaches for its resolution.
 
