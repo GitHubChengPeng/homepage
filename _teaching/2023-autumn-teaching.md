@@ -15,7 +15,9 @@ Textbook & Course Materials
 ======
 
 Primary Textbook:
+
 Practice of Computing Using Python，3th edition, William F. Punch, Richard Enbody, Pearson Education Limited，2017
+
 Starting Out with Python, 5th Edition, Tony Gaddis, Pearson Education Limited, 2021
 
 Optional Books:
@@ -24,6 +26,7 @@ Optional Books:
 
 Required Software
 ======
+
 • Python 3.8 or greater installed on your computer.
 • Python development environment, such as Anaconda (Spyder and Jupyter Notebooks), PyCharm or Visual Studio Code. All of these environments are free to
 download and install.
