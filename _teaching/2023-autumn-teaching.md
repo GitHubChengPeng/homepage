@@ -30,7 +30,7 @@ Required Software
 -----
 
 - Python 3.8 or greater installed on your computer.
-- Python programming environments, such as Anaconda (with Spyder and Jupyter Notebooks), PyCharm, or Visual Studio Code, are commonly utilized in the field. All of these environments may be downloaded and installed at no cost.
+- Python programming environments, such as Anaconda (with Spyder and Jupyter Notebooks), [PyCharm](https://www.jetbrains.com/pycharm-edu/), or Visual Studio Code, are commonly utilized in the field. All of these environments may be downloaded and installed at no cost.
 
 
 Online Resource
