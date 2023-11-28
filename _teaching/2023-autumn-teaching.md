@@ -25,7 +25,7 @@ Primary Textbook
 Optional Books
 -----
 
-[How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/) (Documentation, Release 3rd Edition),Peter Wentworth, Jeffrey Elkner, Allen B. Downey and Chris Meyers,  Apr 2020 
+"[How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/)" (Documentation, Release 3rd Edition),Peter Wentworth, Jeffrey Elkner, Allen B. Downey and Chris Meyers,  Apr 2020 
 
 
 
