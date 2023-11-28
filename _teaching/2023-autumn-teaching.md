@@ -17,14 +17,14 @@ This is a description of a teaching experience. You can use markdown like any ot
 Primary Textbook:
 -----
 
-Practice of Computing Using Python，3th edition, William F. Punch, Richard Enbody, Pearson Education Limited，2017
+"Practice of Computing Using Python" (3th edition), William F. Punch, Richard Enbody, Pearson Education Limited，2017
 
-Starting Out with Python, 5th Edition, Tony Gaddis, Pearson Education Limited, 2021
+"Starting Out with Python" (5th Edition), Tony Gaddis, Pearson Education Limited, 2021
 
 Optional Books:
 -----
 
-Peter Wentworth, Jeffrey Elkner, Allen B. Downey and Chris Meyers, [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/) (Documentation, Release 3rd Edition), Apr 2020 
+[How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/) (Documentation, Release 3rd Edition),Peter Wentworth, Jeffrey Elkner, Allen B. Downey and Chris Meyers,  Apr 2020 
 
 
 
