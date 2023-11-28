@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-teaching
 venue: "Southwest University, Department of Computer Science"
-date: 2023-10-07
+date: Oct-Dec, 2023
 location: "Chongqing, China"
 ---
 
