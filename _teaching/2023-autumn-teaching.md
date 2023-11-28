@@ -24,6 +24,8 @@ Starting Out with Python, 5th Edition, Tony Gaddis, Pearson Education Limited, 2
 Optional Books:
 -----
 
+Peter Wentworth, Jeffrey Elkner, Allen B. Downey and Chris Meyers, [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/) (Documentation, Release 3rd Edition), Apr 2020 
+
 
 
 Required Software
