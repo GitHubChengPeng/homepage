@@ -8,8 +8,10 @@ date: 2023-10-07
 location: "Chongqing, China"
 ---
 
-Course Materials
-======
+
+
+Introduction
+-----
 The course covers variables, expressions, input and output, control structures, functions, standard data structures (such as lists, tuples, set and dictionaries), file system, exception handling, object oriented programming (OOP), GUI, and the use of various Python library resources. By the end of this course students will be able to design and implement a graphical, medium-sized computer programme to solve real-world problems.
 
 
