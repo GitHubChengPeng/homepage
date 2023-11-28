@@ -40,7 +40,6 @@ Online Resource
 -----
 
 - [The Python Standard Library](https://docs.python.org/3.12/library/)
-
 - [pythontutor.com](https://pythontutor.com/)
 
 
