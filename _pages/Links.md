@@ -21,7 +21,7 @@ redirect_from:
 
 - Privacy in Data Mining or Machine Learning
   - [ARX](https://github.com/arx-deidentifier/arx): A data anonymization tool aiming to provide scalability and usability.
-  - [Frequent Itemset Hiding Toolbox](https://github.com/kagklis/Frequent-Itemset-Hiding-Toolbox-x86)
+  - [Frequent Itemset Hiding Toolbox](https://github.com/kagklis/Frequent-Itemset-Hiding-Toolbox-x86).
 
 - Machine Learning Security
   - Adversarial robustness toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
