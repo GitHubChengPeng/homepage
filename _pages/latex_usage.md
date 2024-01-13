@@ -16,4 +16,4 @@ Mathematical Formula and Symbols in Latex
 
 Markdown
 =======
-- [Markdown official tutorial in Chinese](https://markdown.com.cn/)
+- [Markdown official tutorial in Chinese](https://markdown.com.cn/basic-syntax/)
