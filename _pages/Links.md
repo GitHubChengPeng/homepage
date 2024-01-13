@@ -59,7 +59,7 @@ redirect_from:
 - [Alert list](https://earlywarning.fenqubiao.com/#/)
 
 ### Writing
-- [Latex Usage]
+- [Latex Usage](/latex_usage/)
 
 
 
