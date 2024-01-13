@@ -1,3 +1,17 @@
+---
+permalink: /latex_usage/
+title: "Utilities for Writing"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /latex_usage.html
+---
+
+<!--
+<font color=Blue>Framework and Platform</font>
+-->
+
+
 ### Overleaf
 
 - [Overleaf guide](https://www.overleaf.com/learn)
