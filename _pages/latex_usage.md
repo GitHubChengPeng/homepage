@@ -1,6 +1,6 @@
 Overleaf
 =======
-[Overleaf Guide](https://www.overleaf.com/learn)
+- [Overleaf Guide](https://www.overleaf.com/learn)
 
 Table in Latex
 =======
