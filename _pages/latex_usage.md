@@ -27,6 +27,7 @@ redirect_from:
 ### Mathematical Formula and Symbols in Latex
 
 - [List of Greek letters and math symbols](https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols)
+- <https://zhuanlan.zhihu.com/p/464237097>
 
 
 ### Markdown
