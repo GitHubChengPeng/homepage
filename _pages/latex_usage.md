@@ -1,13 +1,13 @@
 Overleaf
 =======
-- [Overleaf Guide](https://www.overleaf.com/learn)
+- [Overleaf guide](https://www.overleaf.com/learn)
 
 Table in Latex
 =======
 
 - [Table in Overleaf](https://www.overleaf.com/learn/latex/Tables)
-- [Post on Latex Table](https://zhuanlan.zhihu.com/p/647067407?utm_id=0)
-- [Online Table Generator](https://www.tablesgenerator.com/)
+- [Post on Latex table](https://zhuanlan.zhihu.com/p/647067407?utm_id=0)
+- [Online table generator](https://www.tablesgenerator.com/)
 
 Mathematical Formula and Symbols in Latex
 =======
