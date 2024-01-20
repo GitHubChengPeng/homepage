@@ -15,6 +15,7 @@ redirect_from:
 ### Overleaf
 
 - [Overleaf guide](https://www.overleaf.com/learn)
+- [Association for Computing Machinery (ACM) - SIG Proceedings Template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty)
 
 
 ### Table in Latex
