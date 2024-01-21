@@ -22,7 +22,7 @@ redirect_from:
 
 - [Table in Overleaf](https://www.overleaf.com/learn/latex/Tables)
 - [Post on Latex table](https://zhuanlan.zhihu.com/p/647067407?utm_id=0)
-- [LaTeX如何优雅的输出科研论文表格](https://zhuanlan.zhihu.com/p/662104147)
+- [How to output scientific paper forms gracefully in LaTeX (in Chinese)](https://zhuanlan.zhihu.com/p/662104147)
 - [Online table generator](https://www.tablesgenerator.com/)
 
 
