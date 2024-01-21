@@ -38,3 +38,8 @@ redirect_from:
 - [Learning-Markdown](https://www.bookstack.cn/read/Learning-Markdown/README.md)
 
 
+### Others
+- [Time zone: Anywhere on Earth](https://time.is/Anywhere_on_Earth)
+
+
+
