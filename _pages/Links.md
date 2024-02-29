@@ -57,7 +57,7 @@ redirect_from:
 - [Journal Partition List of CAS](http://www.fenqubiao.com/)
 - [ACM Upcoming Submission Deadlines](https://www.acm.org/conferences/upcoming-submission-deadlines)
 - [Alert list](https://earlywarning.fenqubiao.com/#/)
-- [CNKI](https://navi.cnki.net/knavi/all/index?uniplatform=NZKPT#)
+- [CNKI](https://navi.cnki.net/knavi)
 ### Writing
 - [Latex Usage](./latex_usage)
 
