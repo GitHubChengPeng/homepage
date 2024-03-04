@@ -28,13 +28,13 @@ redirect_from:
 
 - Evolutionary Multi-objective Optimization（EMO)
   - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/): A repository on evolutionary multi-objective optimization.
-  - [jMetal](https://github.com/jMetal/jMetal): An object-oriented Java-based framework for multi-objective optimization with metaheuristics. 
+  - [jMetal](https://github.com/jMetal/jMetal): An object-oriented Java-based framework for multi-objective optimization with metaheuristics. [Updated]
   - [jMetalPy](https://github.com/jMetal/jMetalPy): Python version of the jMetal framework ([Document](https://jmetal.github.io/jMetalPy/tutorials.html)).
-  - [Pymoo](https://pymoo.org/): Multi-objective optimization in Python.
+  - [Pymoo](https://pymoo.org/): Multi-objective optimization in Python.  [Updated]
   - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-assisted multi-objective optimization.
   - [DESDEO](https://desdeo.misitano.xyz/): Python framework for interactively solving multi-objective optimization problems.
   - [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary multi-objective optimization platform in MATLAB.
-  - [MOEA Framework](http://moeaframework.org/): Java framework for multi-objective optimization.
+  - [MOEA Framework](http://moeaframework.org/): Java framework for multi-objective optimization.  [Updated]
   - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php): A platform and programming language independent interface for search algorithms.
   - [EaOpt](https://github.com/MaxHalford/eaopt): Evolutionary optimization library written in Go.
 
