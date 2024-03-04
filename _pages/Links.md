@@ -58,6 +58,7 @@ redirect_from:
 - [ACM Upcoming Submission Deadlines](https://www.acm.org/conferences/upcoming-submission-deadlines)
 - [Alert list](https://earlywarning.fenqubiao.com/#/)
 - [CNKI](https://navi.cnki.net/knavi)
+- [OpenResearch--Conference Acceptance Rate](https://www.openresearch.org/wiki/Main_Page)
 ### Writing
 - [Latex Usage](./latex_usage)
 
