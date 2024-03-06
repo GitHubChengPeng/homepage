@@ -31,6 +31,7 @@ redirect_from:
   - [jMetal](https://github.com/jMetal/jMetal): An object-oriented Java-based framework for multi-objective optimization with metaheuristics. [Updated]
   - [jMetalPy](https://github.com/jMetal/jMetalPy): Python version of the jMetal framework ([Document](https://jmetal.github.io/jMetalPy/tutorials.html)).
   - [jMetalSP](https://github.com/jMetal/jMetalSP): A framework for Big Data Optimization with multi-objective metaheuristics.
+  - [CoinLab](http://www.coin-lab.org/content/softwares.html)
   - [Pymoo](https://pymoo.org/): Multi-objective optimization in Python.  [Updated]
   - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-assisted multi-objective optimization. [Updated]
   - [DESDEO](https://desdeo.misitano.xyz/): Python framework for interactively solving multi-objective optimization problems. [Updated]
@@ -38,6 +39,7 @@ redirect_from:
   - [MOEA Framework](http://moeaframework.org/): Java framework for multi-objective optimization.  [Updated]
   - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php): A platform and programming language independent interface for search algorithms.
   - [EaOpt](https://github.com/MaxHalford/eaopt): Evolutionary optimization library written in Go.
+  
 
 - Neural Architecture Search (NAS)
   - [EvoXBench](https://github.com/EMI-Group/evoxbench): A neural architecture search benchmark without requirements of GPUs or PyTorch/TensorFlow.
