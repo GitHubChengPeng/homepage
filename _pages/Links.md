@@ -31,7 +31,7 @@ redirect_from:
   - [jMetal](https://github.com/jMetal/jMetal): An object-oriented Java-based framework for multi-objective optimization with metaheuristics. [Updated]
   - [jMetalPy](https://github.com/jMetal/jMetalPy): Python version of the jMetal framework ([Document](https://jmetal.github.io/jMetalPy/tutorials.html)).
   - [jMetalSP](https://github.com/jMetal/jMetalSP): A framework for Big Data Optimization with multi-objective metaheuristics.
-  - [CoinLab](http://www.coin-lab.org/content/softwares.html)
+  - [CoinLab](http://www.coin-lab.org/content/softwares.html): Computational Optimization and Innovation Laboratory at Michigan State University.
   - [Pymoo](https://pymoo.org/): Multi-objective optimization in Python.  [Updated]
   - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-assisted multi-objective optimization. [Updated]
   - [DESDEO](https://desdeo.misitano.xyz/): Python framework for interactively solving multi-objective optimization problems. [Updated]
