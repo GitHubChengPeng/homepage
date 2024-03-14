@@ -17,12 +17,13 @@ redirect_from:
 
 - Fairness in Machine Learning
   - [Fairlearn](https://fairlearn.org/).
-  - [AI Fairness 360](https://ai-fairness-360.org/).  
+  - [AI Fairness 360](https://ai-fairness-360.org/).
+  - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/).
 
 - Privacy in Data Mining or Machine Learning
   - [ARX](https://github.com/arx-deidentifier/arx): A data anonymization tool aiming to provide scalability and usability.
   - [Frequent Itemset Hiding Toolbox](https://github.com/kagklis/Frequent-Itemset-Hiding-Toolbox-x86).
-  - [PySyft: Perform data science on data that remains in someone else's server](https://github.com/OpenMined/PySyft)
+  - [PySyft: Perform data science on data that remains in someone else's server](https://github.com/OpenMined/PySyft).
 
 - Machine Learning Security
   - Adversarial robustness toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
