@@ -36,6 +36,7 @@ redirect_from:
 
 - [Markdown official tutorial in Chinese](https://markdown.com.cn/basic-syntax/)
 - [Learning-Markdown](https://www.bookstack.cn/read/Learning-Markdown/README.md)
+- [Markdown/LaTeX 数学公式和符号表](https://zhuanlan.zhihu.com/p/450465546)
 
 
 ### Others
