@@ -18,6 +18,11 @@ redirect_from:
 - LLM
   - [LLaMA-Factory: An Easy-to-use Fine-tuning Framework for "LLaMA-Efficient-Tuning"](https://github.com/hiyouga/LLaMA-Factory)
   - [TrustLLM: Trustworthiness in Large Language Models](https://github.com/HowieHwong/TrustLLM).
+  - [TrustGPT: A Benchmark for Responsible Large Language Models via Toxicity, Bias, and Value-alignment Evaluation](https://github.com/HowieHwong/TrustGPT)
+  - [MetaTool: Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://github.com/HowieHwong/MetaTool)
+  - [Yue Huang](https://github.com/HowieHwong)
+  - [ChatGPT-Paper-Reading-List](https://github.com/HowieHwong/ChatGPT-Paper-Reading-List)
+  - [PEFT: State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
 
   
 - Fairness in Machine Learning
