@@ -16,30 +16,33 @@ redirect_from:
 ### Frameworks and Tools
 
 - LLM
-  - [LLaMA-Factory: An Easy-to-use Fine-tuning Framework for "LLaMA-Efficient-Tuning"](https://github.com/hiyouga/LLaMA-Factory)
-  - [TrustLLM: Trustworthiness in Large Language Models](https://github.com/HowieHwong/TrustLLM).
-  - [TrustGPT: A Benchmark for Responsible Large Language Models via Toxicity, Bias, and Value-alignment Evaluation](https://github.com/HowieHwong/TrustGPT)
-  - [MetaTool: Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use](https://github.com/HowieHwong/MetaTool)
+  - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): An Easy-to-use Fine-tuning Framework for "LLaMA-Efficient-Tuning".
+  - [TrustLLM](https://github.com/HowieHwong/TrustLLM): Trustworthiness in Large Language Models.
+  - [TrustGPT](https://github.com/HowieHwong/TrustGPT): A Benchmark for Responsible Large Language Models via Toxicity, Bias, and Value-alignment Evaluation.
+  - [MetaTool](https://github.com/HowieHwong/MetaTool): Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use.
   - [Yue Huang](https://github.com/HowieHwong)
-  - [ChatGPT-Paper-Reading-List](https://github.com/HowieHwong/ChatGPT-Paper-Reading-List)
-  - [PEFT: State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft)
+  - [ChatGPT-Paper-Reading-List](https://github.com/HowieHwong/ChatGPT-Paper-Reading-List).
+  - [PEFT](https://github.com/huggingface/peft): State-of-the-art Parameter-Efficient Fine-Tuning.
 
   
 - Fairness in Machine Learning
   - [Fairlearn](https://fairlearn.org/).
   - [AI Fairness 360](https://ai-fairness-360.org/).
-  - [EthicalML: Injecting Ethical and Legal Constraints into Machine Learning Models](https://gauss.world/zh/project/algorithmic-fairness/)
+  - [EthicalML](https://gauss.world/zh/project/algorithmic-fairness/): Injecting Ethical and Legal Constraints into Machine Learning Models.
   - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/).
+
 
 - Privacy in Data Mining or Machine Learning
   - [ARX](https://github.com/arx-deidentifier/arx): A data anonymization tool aiming to provide scalability and usability.
   - [Frequent Itemset Hiding Toolbox](https://github.com/kagklis/Frequent-Itemset-Hiding-Toolbox-x86).
-  - [PySyft: Perform data science on data that remains in someone else's server](https://github.com/OpenMined/PySyft).
-  - [scrubadub: Clean personally identifiable information from dirty text](https://github.com/LeapBeyond/scrubadub?utm_source=catalyzex.com).
-  - [TrustLLM: Trustworthiness in Large Language Models](https://github.com/HowieHwong/TrustLLM).
+  - [PySyft](https://github.com/OpenMined/PySyft): Perform data science on data that remains in someone else's server.
+  - [scrubadub](https://github.com/LeapBeyond/scrubadub?utm_source=catalyzex.com): Clean personally identifiable information from dirty text.
+  - [TrustLLM](https://github.com/HowieHwong/TrustLLM): Trustworthiness in Large Language Models.
+
 
 - Machine Learning Security
   - Adversarial robustness toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
+
 
 - Evolutionary Multi-objective Optimization（EMO)
   - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/): A repository on evolutionary multi-objective optimization. 
@@ -61,6 +64,7 @@ redirect_from:
     - Neural architecture search as multi-objective optimization benchmarks.
   - [EvoX](https://github.com/EMI-Group/evox): A distributed GPU-accelerated framework for scalable evolutionary computation.
 
+
 - Constraint Satisfaction and Programming
   - [Choco](https://choco-solver.org/): An open-source Java library dedicated to constraint programming. 
   - [MiniZinc](https://www.minizinc.org/): An open-source constraint modeling language.
@@ -77,7 +81,8 @@ redirect_from:
 - [Alert list](https://earlywarning.fenqubiao.com/#/)
 - [CNKI](https://navi.cnki.net/knavi)
 - [OpenResearch--Conference Acceptance Rate](https://www.openresearch.org/wiki/Main_Page)
-- 
+
+
 ### Writing
 - [Latex Usage](./latex_usage)
 
