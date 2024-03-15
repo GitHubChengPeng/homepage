@@ -18,6 +18,7 @@ redirect_from:
 - Fairness in Machine Learning
   - [Fairlearn](https://fairlearn.org/).
   - [AI Fairness 360](https://ai-fairness-360.org/).
+  - [EthicalML: Injecting Ethical and Legal Constraints into Machine Learning Models](https://gauss.world/zh/project/algorithmic-fairness/)
   - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/).
 
 - Privacy in Data Mining or Machine Learning
