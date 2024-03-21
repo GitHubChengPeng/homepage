@@ -88,5 +88,7 @@ redirect_from:
 ### Writing
 - [Latex Usage](./latex_usage)
 
+### Research Methodologies and Advices
+- [Advice Collection](https://taoxiease.github.io/advice.htm) by Prof. Tao Xie
 
 
