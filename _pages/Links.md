@@ -24,6 +24,7 @@ redirect_from:
   - [Yue Huang](https://github.com/HowieHwong)
   - [ChatGPT-Paper-Reading-List](https://github.com/HowieHwong/ChatGPT-Paper-Reading-List).
   - [FastEdit](https://github.com/hiyouga/FastEdit): Editing large language models within 10 seconds.
+  - [LLM Security & Privacy](https://github.com/chawins/llm-sp): Papers and resources related to the security and privacy of LLMs 🤖 (chawins.github.io/llm-sp) 
 
   
 - Fairness in Machine Learning
