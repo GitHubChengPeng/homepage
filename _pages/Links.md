@@ -48,15 +48,15 @@ redirect_from:
 
 - Evolutionary Multi-objective Optimization（EMO)
   - [EMOO Web Page](http://delta.cs.cinvestav.mx/~ccoello/EMOO/): A repository on evolutionary multi-objective optimization. 
-  - [jMetal](https://github.com/jMetal/jMetal): An object-oriented Java-based framework for multi-objective optimization with metaheuristics. [Updated]
+  - [jMetal](https://github.com/jMetal/jMetal): An object-oriented Java-based framework for multi-objective optimization with metaheuristics. 
   - [jMetalPy](https://github.com/jMetal/jMetalPy): Python version of the jMetal framework ([Document](https://jmetal.github.io/jMetalPy/tutorials.html)).
   - [jMetalSP](https://github.com/jMetal/jMetalSP): A framework for Big Data Optimization with multi-objective metaheuristics.
   - [CoinLab](http://www.coin-lab.org/content/softwares.html): Computational Optimization and Innovation Laboratory at Michigan State University.
-  - [Pymoo](https://pymoo.org/): Multi-objective optimization in Python.  [Updated]
-  - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-assisted multi-objective optimization. [Updated]
-  - [DESDEO](https://desdeo.misitano.xyz/): Python framework for interactively solving multi-objective optimization problems. [Updated]
-  - [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary multi-objective optimization platform in MATLAB. [Updated]
-  - [MOEA Framework](http://moeaframework.org/): Java framework for multi-objective optimization.  [Updated]
+  - [Pymoo](https://pymoo.org/): Multi-objective optimization in Python.  
+  - [pysamoo](https://anyoptimization.com/projects/pysamoo/): Surrogate-assisted multi-objective optimization. 
+  - [DESDEO](https://desdeo.misitano.xyz/): Python framework for interactively solving multi-objective optimization problems. 
+  - [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary multi-objective optimization platform in MATLAB. 
+  - [MOEA Framework](http://moeaframework.org/): Java framework for multi-objective optimization.  
   - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php): A platform and programming language independent interface for search algorithms.
   - [EaOpt](https://github.com/MaxHalford/eaopt): Evolutionary optimization library written in Go.
   
