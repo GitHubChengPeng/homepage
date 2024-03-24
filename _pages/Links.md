@@ -44,6 +44,18 @@ redirect_from:
 
 - Machine Learning Security
   - Adversarial robustness toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
+ 
+
+- Federated Learning
+  - [FedML](https://www.media.mit.edu/projects/fedml-a-research-library-and-benchmark-for-federated-machine-learning/overview/): A Research Library and Benchmark for Federated Machine Learning
+
+		FedML Ecosystem
+			FedML Core Framework (GitHub, Paper)
+			FedNLP (Natural Language Processing) (GitHub, Paper)
+			FedGraphNN (Data Mining, Graph Neural Networks): (GitHub, Paper)
+			FedCV (Computer Vision) (GitHub, Paper)
+			FedIoT (Internet of Things) (GitHub)
+			FedMobile (Smartphones): (Mobile-GitHub, Server-GitHub)
 
 
 - Evolutionary Multi-objective Optimization（EMO)
