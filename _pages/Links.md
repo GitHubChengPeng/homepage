@@ -109,7 +109,7 @@ redirect_from:
   - [Deep Learning](https://www.bilibili.com/video/BV1QQ4y1G7h7/?spm_id_from=333.337.search-card.all.click&vd_source=40028c5dde6c32c29e1bf84d3c97c9c9) by Andrew Ng 
   - [Deep Learning, another link](https://www.bilibili.com/video/BV1ev4y1U7j2/?spm_id_from=333.337.search-card.all.click&vd_source=40028c5dde6c32c29e1bf84d3c97c9c9) by Andrew Ng
 - Algorithm Design And Analysis
-  - [Algorithm Design (Cornell University)] (https://courses.cs.cornell.edu/cs4820/2023sp/syllabus/#sec-general-information)
+  - [Algorithm Design (Cornell University)](https://courses.cs.cornell.edu/cs4820/2023sp/syllabus/#sec-general-information)
 
 
 
