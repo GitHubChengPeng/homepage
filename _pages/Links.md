@@ -18,6 +18,7 @@ redirect_from:
 - LLM
   - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): An Easy-to-use Fine-tuning Framework for "LLaMA-Efficient-Tuning".
   - [PEFT](https://github.com/huggingface/peft): State-of-the-art Parameter-Efficient Fine-Tuning.
+  - [The Alignment Handbook](https://github.com/huggingface/alignment-handbook): Robust recipes to align language models with human and AI preferences.
   - [TrustLLM](https://github.com/HowieHwong/TrustLLM): Trustworthiness in Large Language Models ([TrustLLM-Website](https://trustllmbenchmark.github.io/TrustLLM-Website/)).
   - [TrustGPT](https://github.com/HowieHwong/TrustGPT): Benchmark for Responsible Large Language Models via Toxicity, Bias, and Value-alignment Evaluation.
   - [MetaTool](https://github.com/HowieHwong/MetaTool): Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use.
