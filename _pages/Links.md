@@ -26,7 +26,14 @@ redirect_from:
   - [ChatGPT-Paper-Reading-List](https://github.com/HowieHwong/ChatGPT-Paper-Reading-List).
   - [FastEdit](https://github.com/hiyouga/FastEdit): Editing large language models within 10 seconds.
   - [EasyEdit](https://github.com/zjunlp/EasyEdit): An Easy-to-use Knowledge Editing Framework for LLMs (by ZheJiang University). 
-  - [LLM Security & Privacy](https://github.com/chawins/llm-sp): Papers and resources related to the security and privacy of LLMs 🤖 (chawins.github.io/llm-sp) 
+  - [LLM Security & Privacy](https://github.com/chawins/llm-sp): Papers and resources related to the security and privacy of LLMs 🤖 (chawins.github.io/llm-sp)
+  - [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
+  - [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare): Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review
+  - [LLM Reasonsers](https://www.llm-reasoners.net/): a library to enable LLMs to conduct complex reasoning, with advanced reasoning algorithms.
+  - [The Alignment Handbook](https://github.com/huggingface/alignment-handbook): Robust recipes to align language models with human and AI preferences.
+  - Foundational Challenges in Assuring Alignment and Safety of Large Language Models [Page](https://llm-safety-challenges.github.io/)
+  - Aligning Large Language Models with Human: A Survey [Page](https://github.com/GaryYufei/AlignLLMHumanSurvey)
+  - [A Survey of Large Language Models](https://github.com/RUCAIBox/LLMSurvey/tree/main)
 
   
 - Fairness in Machine Learning
@@ -46,6 +53,7 @@ redirect_from:
 
 - Machine Learning Security
   - Adversarial robustness toolbox 360 ([Link1](https://github.com/Trusted-AI/adversarial-robustness-toolbox), [Link2](https://www.ibm.com/blogs/research/2019/09/adversarial-robustness-360-toolbox-v1-0/), [Link3](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/))
+  - Adversarial Robustness Toolbox (ART)[Link](https://github.com/Trusted-AI/adversarial-robustness-toolbox): Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference 
  
 
 - Federated Learning
@@ -91,6 +99,7 @@ redirect_from:
 ### Journals and Conferences
 
 - [CCF Recommendation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
+- [Upcoming Conferences](https://conferencelist.info/upcoming/)
 - [Scimago](https://www.scimagojr.com/)
 - [Journal Partition List of CAS](http://www.fenqubiao.com/)
 - [ACM Upcoming Submission Deadlines](https://www.acm.org/conferences/upcoming-submission-deadlines)
