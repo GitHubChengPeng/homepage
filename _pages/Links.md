@@ -39,6 +39,7 @@ redirect_from:
 - Fairness in Machine Learning
   - [Fairlearn](https://fairlearn.org/).
   - [AI Fairness 360](https://ai-fairness-360.org/).
+  - A list of resources to understand concepts and applications of fairness in machine learning (ML) [Link](https://cgarbin.github.io/fairness-a-reading-list/)
   - [EthicalML](https://gauss.world/zh/project/algorithmic-fairness/): Injecting Ethical and Legal Constraints into Machine Learning Models.
   - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/).
 
