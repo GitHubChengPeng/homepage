@@ -15,7 +15,7 @@ The course covers variables, expressions, input and output, control structures, 
 
 
 
-Primary Textbook
+Reference Books
 -----
 
 "[Python for Data Analysis, 3ed](https://wesmckinney.com/book/)", Wes McKinney, O'Reilly Media, Inc., 2022
