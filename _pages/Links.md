@@ -16,12 +16,13 @@ redirect_from:
 ### Frameworks and Tools
 
 - LLM
-  - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): An Easy-to-use Fine-tuning Framework for "LLaMA-Efficient-Tuning".
-  - [PEFT](https://github.com/huggingface/peft): State-of-the-art Parameter-Efficient Fine-Tuning.
-  - [The Alignment Handbook](https://github.com/huggingface/alignment-handbook): Robust recipes to align language models with human and AI preferences.
+  - [Trustworthiness in Large Language Models](https://trustllmbenchmark.github.io/TrustLLM-Website/)
   - [TrustLLM](https://github.com/HowieHwong/TrustLLM): Trustworthiness in Large Language Models ([TrustLLM-Website](https://trustllmbenchmark.github.io/TrustLLM-Website/)).
   - [TrustGPT](https://github.com/HowieHwong/TrustGPT): Benchmark for Responsible Large Language Models via Toxicity, Bias, and Value-alignment Evaluation.
   - [MetaTool](https://github.com/HowieHwong/MetaTool): Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use.
+  - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): An Easy-to-use Fine-tuning Framework for "LLaMA-Efficient-Tuning".
+  - [PEFT](https://github.com/huggingface/peft): State-of-the-art Parameter-Efficient Fine-Tuning.
+  - [The Alignment Handbook](https://github.com/huggingface/alignment-handbook): Robust recipes to align language models with human and AI preferences.
   - [Yue Huang](https://github.com/HowieHwong)
   - [ChatGPT-Paper-Reading-List](https://github.com/HowieHwong/ChatGPT-Paper-Reading-List).
   - [FastEdit](https://github.com/hiyouga/FastEdit): Editing large language models within 10 seconds.
@@ -37,6 +38,8 @@ redirect_from:
 
   
 - Fairness in Machine Learning
+  - [KDD 2023 Tutorial](https://dssg.github.io/fairness_tutorial/) - Addressing Bias and Fairness in Machine Learning: A Practical Guide and Hands-on Tutorial
+A Hands-on Tutorial
   - [Fairlearn](https://fairlearn.org/).
   - [AI Fairness 360](https://ai-fairness-360.org/).
   - A list of resources to understand concepts and applications of fairness in machine learning (ML) [Link](https://cgarbin.github.io/fairness-a-reading-list/)
