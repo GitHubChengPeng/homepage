@@ -50,6 +50,7 @@ A Hands-on Tutorial
 - Privacy in Data Mining or Machine Learning
   - [ARX](https://github.com/arx-deidentifier/arx): A data anonymization tool aiming to provide scalability and usability.
   - [Frequent Itemset Hiding Toolbox](https://github.com/kagklis/Frequent-Itemset-Hiding-Toolbox-x86).
+  - [SPMF](https://www.philippe-fournier-viger.com/spmf/): An open-source data mining library written in Java, specialized in pattern mining
   - [PySyft](https://github.com/OpenMined/PySyft): Perform data science on data that remains in someone else's server.
   - [scrubadub](https://github.com/LeapBeyond/scrubadub?utm_source=catalyzex.com): Clean personally identifiable information from dirty text.
   - [TrustLLM](https://github.com/HowieHwong/TrustLLM): Trustworthiness in Large Language Models.
