@@ -22,11 +22,15 @@ Reference Books
 
 "[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)", Jake VanderPlas, O'Reilly Media, Inc., 2016
 
+"Python语言程序设计基础(第2版)" ,嵩天,礼欣,黄天羽, 高等教育出版社, 2017 (In Chinese) ([Online Course](https://wmooc.icourses.cn/coursePage/A03_01.html))
+
 "[Data Structures and Algorithms in Python](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Python%2C+1st+Edition-p-9781118290279)", Michael T. Goodrich, Roberto Tamassia and Michael H. Goldwasser, John Wiley & Sons, 2013
 
 "[Data Structures and Algorithms with Python](https://kentdlee.github.io/CS2Plus/build/html/index.html#)", Kent D. Lee and Steve Hubbard, Springer, 2014
 
 "[A Common-Sense Guide to Data Structures and Algorithms: Level Up Your Core Programming Skills](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)", Jay Wengrow (2nd Edition), 2020, Pragmatic Bookshelf 
+
+[Dive Into DESIGN PATTERNS](https://refactoring.guru/design-patterns/book): An ebook on design patterns and the principles behind them
 
 "Practice of Computing Using Python, 3ed", William F. Punch, Richard Enbody, Pearson Education Limited，2017
 
@@ -42,6 +46,8 @@ Optional Books
 "Starting Out with Python" (5th Edition), Tony Gaddis, Pearson Education Limited, 2021
 
 "[Problem Solving with Algorithms and Data Structures using Python](https://www.openbookproject.net/books/pythonds/)", 
+
+
 
 
 
