@@ -45,7 +45,7 @@ Optional Books
 
 "Starting Out with Python" (5th Edition), Tony Gaddis, Pearson Education Limited, 2021
 
-"[Problem Solving with Algorithms and Data Structures using Python](https://www.openbookproject.net/books/pythonds/)", 
+"[Problem Solving with Algorithms and Data Structures using Python](https://www.openbookproject.net/books/pythonds/)", by Bradley N. Miller, David L. Ranum, Online Book.
 
 
 
