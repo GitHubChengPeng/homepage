@@ -28,7 +28,7 @@ redirect_from:
   - [FastEdit](https://github.com/hiyouga/FastEdit): Editing large language models within 10 seconds.
   - [EasyEdit](https://github.com/zjunlp/EasyEdit): An Easy-to-use Knowledge Editing Framework for LLMs (by ZheJiang University). 
   - [LLM Security & Privacy](https://github.com/chawins/llm-sp): Papers and resources related to the security and privacy of LLMs 🤖 (chawins.github.io/llm-sp)
-  - [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
+  - [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese): Llama中文社区，最好的中文Llama大模型，开源可商用
   - [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare): Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review
   - [LLM Reasonsers](https://www.llm-reasoners.net/): a library to enable LLMs to conduct complex reasoning, with advanced reasoning algorithms.
   - [The Alignment Handbook](https://github.com/huggingface/alignment-handbook): Robust recipes to align language models with human and AI preferences.
