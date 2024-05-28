@@ -84,6 +84,8 @@ A Hands-on Tutorial
   - [PlatEMO](https://github.com/BIMK/PlatEMO): Evolutionary multi-objective optimization platform in MATLAB. 
   - [MOEA Framework](http://moeaframework.org/): Java framework for multi-objective optimization.  
   - [PISA](https://sop.tik.ee.ethz.ch/pisa/?page=principles.php): A platform and programming language independent interface for search algorithms.
+  - [Paradiseo](https://nojhan.github.io/paradiseo/): A Heuristic Optimization Framework.
+  - [Liger](https://github.com/ligerdev/liger): A multi-objective integrated optimization environment. 
   - [EaOpt](https://github.com/MaxHalford/eaopt): Evolutionary optimization library written in Go.
   
 
